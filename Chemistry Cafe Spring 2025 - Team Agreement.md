@@ -42,7 +42,7 @@
 
 # Team Member Signatures
 
-1. Robert Cook  
+1. Robert D. Cook  
 2. Kaili M. Fogle  
 3. Jackson Stewart
 
