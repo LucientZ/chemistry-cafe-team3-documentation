@@ -1,5 +1,3 @@
 # chemistry-cafe-team3-documentation
 
-haha cool edit
-
-edit 3
+This repo hosts team documents for the third team working on Chemistry Cafe
