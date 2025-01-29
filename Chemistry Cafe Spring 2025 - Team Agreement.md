@@ -8,7 +8,9 @@
 2. Fix existing security issues
 
 # Roles and Responsibilities
-  
+
+1. Robert Cook \- Front-End Lead
+2. Kaili Fogle \- Back-End Lead
 3. Jackson Stewart \- CI/CD Lead
 
 # Communication Expectations
@@ -27,16 +29,17 @@
 
 # Meeting Structure and Availability Expectations
 
-1. Meetings with the team and the client will be scheduled on **Tuesdays**.  
-2. Consult the team Google calendar and Discord when coordinating additional meetings.
+- Meetings with the team and the client will be scheduled on **Tuesdays**.
+- Consult the team Google calendar and Discord when coordinating additional meetings.
 
 # Change Requests
 
-1. TBD
+- Change requests will be communicated with the client during client meetings or through email.
+- Any change requests will be made as issues on GitHub which will be assigned to either the respective lead or whoever is available to make the change.
 
 # Team Agreement Maintenance
 
-1. Use suggest mode and someone else needs to approve the change.  
+1. Use a pull-request and someone else needs to approve the change.  
 2. Please inform other members of any suggestions you make.  
 3. Change as needed. Not periodically.
 
