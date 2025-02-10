@@ -13,6 +13,7 @@
 2. Kaili Fogle \- Back-End Lead
 3. Jackson Stewart \- CI/CD Lead
 4. James Fontenot \- Back-End Support
+5. Donato Curvino \- Front-End Support
 
 # Communication Expectations
 
