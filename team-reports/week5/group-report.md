@@ -14,7 +14,12 @@
 
 ## Status Report
 
-*Write a one-third to one-half page status report describing the team’s overall progress and challenges faced last week. Also discuss the team’s goals and plan for this week.*
+
+This week the team worked on re-implementing features that existed beforehand, but were made in ways that either didn't allow enough customization or did not follow the patterns that allowed for extensions of functionality.
+
+We had a big challenge in terms of integrating the different contributions together, but it worked out in the end and we ended up with a functioning release.
+
+One big thing that we plan on finishing up that was worked on throughout the week is database migrations. This means that we will be able to edit our objects on the fly and the database will be able to cope with any changes to our data schema.
 
 ## Current Status
 
