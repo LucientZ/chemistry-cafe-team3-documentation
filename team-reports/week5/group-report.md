@@ -54,4 +54,4 @@ No resources needed
 |Finish Backend Authentication with the Database|James|       |
 |Code Coverage|Kaili|       |
 |Start reimplementing family editor|Robbie|       |
-|Work on database migrations|           |       |
+|Work on database migrations|Jackson|       |
