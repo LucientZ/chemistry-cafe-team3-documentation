@@ -1,12 +1,16 @@
 # Team Weekly Report
 
-**Team**:
+**Team**: Chem Caf3
 
-**Week**:
+**Week**: 3/24/25
 
 **Members**:
 
-*
+* Donato Curvino
+* Robbie Cook
+* James Fontenot
+* Kaili Fogle
+* Jackson Stewart
 
 ## Status Report
 
