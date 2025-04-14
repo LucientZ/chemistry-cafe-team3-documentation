@@ -14,6 +14,7 @@
 | ---- | ------ | ---------- |
 | added different color themes for accessibility | done | 2 |
 | changed font size controls to a slider | done | 1 |
+| worked on the ethics infographic | done | 2 |
 
 *Include screenshots/diagrams/figures/etc. to illustrate what you did this past week.*
 ![different color themes](themes.png)
