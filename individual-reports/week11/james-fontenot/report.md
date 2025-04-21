@@ -36,7 +36,7 @@ The project is mostly done, the back-end only needs a couple tests.
 The team is functioning well; we have made good progress.
 
 ### What new ideas did you have or skills did you develop this week?
-I learned how to modify Dockerfile.
+I learned how to modify Docker files.
 
 ### Who was your most awesome team member this week and why?
 Robbie, because he did most of the report due this week.
@@ -46,4 +46,4 @@ Robbie, because he did most of the report due this week.
 
 *What are you going to work on this week?*
 
-Added tests to new migrated species and mechanism controllers.
+Add tests for the four new controllers.
