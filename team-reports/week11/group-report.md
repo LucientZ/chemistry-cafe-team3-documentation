@@ -38,7 +38,7 @@ We are fixing up some final integration bugs and touching up the frontend. We ha
 | Database and backend restructuring | Jackson + Robbie | done |           |
 |Added Google OAuth tests|James|done   |60 min.     |
 |Refactored family service into controller |James|done   |90 min.     |
-|Made Docker no longer create unnecessary directory |James||done   |15 min.     |
+|Made Docker no longer create unnecessary directory |James|done   |15 min.     |
 |Writing species controller tests|James|in-progress|15 min.     |
 | Preparations for user study | Kaili | Complete | 60 min |
 
